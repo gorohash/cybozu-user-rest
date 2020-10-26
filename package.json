@@ -1,0 +1,27 @@
+{
+  "name": "@gorohash/cybozu-user-rest",
+  "version": "0.0.1",
+  "description": "REST API client for Cybozu User API",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gorohash/cybozu-user-rest.git"
+  },
+  "keywords": [
+    "cybozu",
+    "rest",
+    "api-client"
+  ],
+  "author": {
+    "name": "gorohash",
+    "url": "https://github.com/gorohash"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gorohash/cybozu-user-rest/issues"
+  },
+  "homepage": "https://github.com/gorohash/cybozu-user-rest#readme"
+}
